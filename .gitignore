@@ -12,6 +12,7 @@ dist
 dist-ssr
 dev-dist
 *.local
+.nx
 
 # Editor directories and files
 .idea
